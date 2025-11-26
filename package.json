@@ -1,6 +1,10 @@
 {
   "name": "festperfect",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "It is festperfect.",
+  "homepage": "https://festperfect.vercel.app",
+  "author": "Ethan G. (https://egxo.dev)",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
